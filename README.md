@@ -16,3 +16,16 @@ size, processing power, and purpose.
 - Mainframe computers
 - Minicomputers
 - Microcomputers
+## History of Computers
+
+The history of computers developed through several generations.
+Early calculating machines were mechanical, while modern computers
+use advanced electronic technology.
+
+### Computer Generations
+
+1. First Generation
+2. Second Generation
+3. Third Generation
+4. Fourth Generation
+5. Fifth Generation
